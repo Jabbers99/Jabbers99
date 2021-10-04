@@ -3,4 +3,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width=50>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width=50> <!-- No Lua Devicons :( -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=50>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width=50>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=50>
